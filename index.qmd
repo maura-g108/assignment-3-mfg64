@@ -1,7 +1,19 @@
 ---
-title: "assignment-3-mfg64"
+title: "The Most Awesome and Collaborative Plant People Website Ever"
 ---
 
-This is a Quarto website.
+# This is a website we are making for class!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## The authors of that website can be found here:
+
+-   **Maura Gallagher:**
+
+    -   <https://github.com/maura-g108>
+
+-   **Emily Fratz:**
+
+    -   <https://github.com/ef776493>
+
+## Here is a really cool picture depicting the feeling of coming across 4 industrial-sized bins of free peaches on the Agritech loading dock:
+
+![Oh yeah, it's peach time!!](https://64.media.tumblr.com/fcd141e0ddeb03c2bb4fc8a948c0f3d2/f3e62bfada13b1f5-9d/s500x750/c4ddb29009a397dd4a86e8a21c9ac46c2754a141.jpg){fig-align="center"}
