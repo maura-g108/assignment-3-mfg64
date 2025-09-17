@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme:
-      - united
-      - brand
+      - minty
     css: styles.css
     toc: true
 

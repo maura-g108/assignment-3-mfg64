@@ -1,6 +1,6 @@
----
+------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
 ---
 title: "Maura"
@@ -12,6 +12,6 @@ title: "Maura"
 
 -   I have a dog and a cat which I adore greatly.
 
-!["Hotdog"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.fXVRxEqkVdCmNKT1r7re_gHaE8%3Fpid%3DApi&f=1&ipt=81c8b8e9561caf3b272009d63b9c69308a2e1dd106f8a4cc3d868988df87706f&ipo=images){alt="Hotdog"}
+![Hotdog](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.fXVRxEqkVdCmNKT1r7re_gHaE8%3Fpid%3DApi&f=1&ipt=81c8b8e9561caf3b272009d63b9c69308a2e1dd106f8a4cc3d868988df87706f&ipo=images)
 
 ![Actual dog](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.ZbEsya_9uSnCFsiexy5T8gHaJ_%3Fr%3D0%26pid%3DApi&f=1&ipt=fecdbe93e118d6969552dad74b5e6b8612a044f5f964a70e001eb62f47282a16&ipo=images)
