@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Maura",
+    "section": "",
+    "text": "I am a second year Plant Breeding & Genetics Ph.D. student.\nI love nature and experiencing the immense beauty of life.\nI have a dog and a cat which I adore greatly."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "The Most Awesome and Collaborative Plant People Website Ever",
@@ -19,12 +26,5 @@
     "title": "The Most Awesome and Collaborative Plant People Website Ever",
     "section": "",
     "text": "Oh yeah, it’s peach time!!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Maura",
-    "section": "",
-    "text": "I am a second year Plant Breeding & Genetics Ph.D. student.\nI love nature and experiencing the immense beauty of life.\nI have a dog and a cat which I adore greatly."
   }
 ]
